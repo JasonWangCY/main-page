@@ -1,9 +1,7 @@
 ### Hello there! I'm Jason. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm a final-year physics student with an interest in software engineering and data analysis.
 
-Curiosity is one of the defining traits of a science student, and as such, I enjoy learning about new technologies and advances. Undoubtedly, the software engineering industry changes at a rapid pace and I look forward to a future of trying out new things and exploring new ideas!
-
-I love astronomy (hence physics student!), watching a lot of old films (from directors like Stanley Kubrick), and I love doing pencil sketches from time to time. I enjoy instrumental music (like classical), and occasionally jogging (when I'm not feeling too lazy!).
+I'm always curious about the world, and learning about new technologies and advances. Undoubtedly, the software engineering industry changes at a rapid pace and I look forward to trying out new things and exploring new concepts. I also love astronomy, watch a lot of old films, and do pencil sketches from time to time.
 
 ### I code with ###
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
